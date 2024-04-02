@@ -7,5 +7,25 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="json" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/javafx-sdk-22/lib/javafx.controls.jar!/" />
+          <root url="jar://E:/javafx-sdk-22/lib/javafx.graphics.jar!/" />
+          <root url="jar://E:/javafx-sdk-22/lib/javafx.fxml.jar!/" />
+          <root url="jar://E:/javafx-sdk-22/lib/javafx.base.jar!/" />
+          <root url="file://$MODULE_DIR$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="javafx.controls" level="project" />
+    <orderEntry type="library" exported="" name="javafx.base" level="project" />
+    <orderEntry type="library" exported="" name="javafx.fxml" level="project" />
+    <orderEntry type="library" exported="" name="javafx.graphics" level="project" />
   </component>
 </module>

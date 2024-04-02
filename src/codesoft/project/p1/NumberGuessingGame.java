@@ -12,7 +12,7 @@ public class NumberGuessingGame {
 
   public  int totalRounds = 0;
   public  int totalRoundsWon = 0;
-
+    public int attempts = 0;
     public void playGame() {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
@@ -31,7 +31,7 @@ public class NumberGuessingGame {
 
     public  int playRound(Scanner scanner, int target) {
         Set<Integer> guessedNumbers = new HashSet<>();
-        int attempts = 0;
+
 
         System.out.println("\nRound " + totalRounds + ":");
         System.out.println("I've selected a number between " + minAttempt + " and " + maxAttempt + ". Try to guess it!");

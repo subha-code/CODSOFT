@@ -5,14 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08ec139e-2cec-4a73-8487-3b5da4b3ef54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODSOFT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codesoft/project/p2/GameRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/InsidiousPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_base.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_controls.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_fxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_graphics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/atminterface/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/atminterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/atminterface/Operationatm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/atminterface/UserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/currencyconvert/APIIntegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/currencyconvert/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/studentmanagementsystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/studentmanagementsystem/StudentManagementGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/studentmanagementsystem/StudentManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesoft/project/studentmanagementsystem/student_detail.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentmanagementsystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentmanagementsystem/StudentManagementGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentmanagementsystem/StudentManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentmanagementsystem/student_detail.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODSOFT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CODSOFT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codesoft/project/markscalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codesoft/project/markscalculator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -33,23 +51,51 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2doviSftJVe3CRw7nCvd1BFhBO1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.GameRule.executor": "Run",
-    "Application.NumberGuess.executor": "Debug",
-    "Application.NumberGuessingGame.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.CurrencyConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GameRule.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JAVAFX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberGuess.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumberGuessingGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentManagementGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/studentmanagementsystem&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="JAVAFX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="codesoft.project.studentmanagementsystem.StudentManagementGUI" />
+      <module name="CODSOFT" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx-sdk-22\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,6 +114,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -75,6 +124,29 @@
           <url>file://$PROJECT_DIR$/src/NumberGuessingGame.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codesoft/project/currencyconvert/APIIntegration.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/codesoft/project/p2/GameRule.java</url>
+          <line>4</line>
+          <properties class="codesoft.project.p2.GameRule" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/codesoft/project/markscalculator/Main.java</url>
+          <line>6</line>
+          <properties class="codesoft.project.markscalculator.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
